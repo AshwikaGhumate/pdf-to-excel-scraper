@@ -26,31 +26,24 @@ Using the libraries `pdfplumber` and `PyMuPDF`, I implemented a solution that ac
   - `pdfplumber`
   - `pandas`
   - `openpyxl`
-
-You can install the required libraries using pip:
-
-```bash
-pip install pdfplumber pandas openpyxl pymupdf
-
-
+    
 ## Installation
+
 **Clone the repository**:
-```bash
 git clone https://github.com/yourusername/pdf-to-excel-scraper.git
 
 **Navigate to the project directory**:
-```bash
 cd pdf-to-excel-scraper
 
 **Install the required libraries (if not done already)**:
-```bash
 pip install pdfplumber pandas openpyxl pymupdf
 
 ## Usage
 Place your PDF file in the project directory and rename it to data.pdf. You can modify the code to specify a different file name if needed.
 
 ## Run the script:
-```bash
+
+**Run the script**:
 python pdf_to_excel.py
 After the script runs, the extracted data will be saved in extracted_data.xlsx
 
