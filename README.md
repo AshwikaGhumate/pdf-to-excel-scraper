@@ -35,7 +35,7 @@ git clone https://github.com/AshwikaGhumate/pdf-to-excel-scraper.git
 **Navigate to the project directory**:
 cd pdf-to-excel-scraper
 
-**Install the required libraries (if not done already)**:
+**Install the required libraries**:
 pip install pdfplumber pandas openpyxl pymupdf
 
 ## Usage
