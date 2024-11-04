@@ -30,7 +30,7 @@ Using the libraries `pdfplumber` and `PyMuPDF`, I implemented a solution that ac
 ## Installation
 
 **Clone the repository**:
-git clone https://github.com/yourusername/pdf-to-excel-scraper.git
+git clone https://github.com/AshwikaGhumate/pdf-to-excel-scraper.git
 
 **Navigate to the project directory**:
 cd pdf-to-excel-scraper
